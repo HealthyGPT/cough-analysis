@@ -1,0 +1,5 @@
+.gitattribute
+.DS_Store
+.vscode/
+*.wav
+.wav
